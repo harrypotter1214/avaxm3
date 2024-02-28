@@ -6,7 +6,7 @@ This is a contract to mint,transfer and burn the token from a  wallet address.
 
 ## Description
 
-This is a Solidity smart contract for creating a custom ERC20 token on the Ethereum blockchain. The token is called "Mamapa" and has the symbol "MMP". The contract allows the owner to mint new tokens and assign them to a specific address, transfer tokens between addresses, and burn tokens. The contract uses the OpenZeppelin ERC20 implementation for security.
+This is a Solidity smart contract for creating a custom ERC20 token on the Ethereum blockchain. The token is called "MyToken" and has the symbol "MMP". The contract allows the owner to mint new tokens and assign them to a specific address, transfer tokens between addresses, and burn tokens. The contract uses the OpenZeppelin ERC20 implementation for security.
  
 
 ## Requirements
